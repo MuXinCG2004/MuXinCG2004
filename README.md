@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div class="wrapper">
 	<div class="card">
-		<div class="MyWorld">
-			MuXinCG
+		<div class="card__year">
+			20<br />16
 		</div>
 		<div class="card__cometOuter">
 			<div class="card__comet"></div>
