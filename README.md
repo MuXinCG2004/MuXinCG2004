@@ -29,9 +29,6 @@
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
 <br/><br/>
 
-
-<br/><br/>
-
 ### Database
 
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
