@@ -5,6 +5,7 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
 <h3>
+
 - 💻 2年开发经验，使用C语言、C++语言和Java语言
 
 - 🐧 对Linux有1年使用经验
@@ -88,5 +89,4 @@
   </a> 
   it and customize it to your needs!
 </h2> 
-
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/Finish.svg" /></a>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/Finish.svg" /></a>e
