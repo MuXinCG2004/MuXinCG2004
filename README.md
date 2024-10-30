@@ -89,4 +89,4 @@
   </a> 
   it and customize it to your needs!
 </h2> 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/Finish.svg" /></a>e
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
