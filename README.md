@@ -15,11 +15,11 @@
 
 - 🐧 **系统环境**: 1年+Linux系统使用经验，熟悉Docker容器化部署
 
-- 📚 **学习方向**: 深入研究智能算法与图算法，探索前沿技术
+- 📚 **学习方向**: 深入研究近似算法与图算法，探索前沿技术
 
 - 🎓 **教育背景**: 山东大学计算机科学与技术专业本科在读
 
-- 🚀 **技术兴趣**: 算法优化、系统架构、开源贡献
+- 🚀 **技术兴趣**: 算法优化、开源贡献
 
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
@@ -58,14 +58,6 @@
 
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
-
-</div>
-
-<a href="#-connect-with-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-<br/>
-
-<a href="#-featured-projects--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/>
 
 <div style="display: flex; align-items: center">
