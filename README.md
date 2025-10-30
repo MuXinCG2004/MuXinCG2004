@@ -1,6 +1,12 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me  </h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MuXinCG;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;Algorithm+Enthusiast+%7C+Full+Stack+Developer;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0+%7C+%E4%B8%8D%E6%96%AD%E8%BF%9B%E6%AD%A5)](https://git.io/typing-svg)
+
+</div>
+
+<br/><h1> 💫 About Me  </h1>
 
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
