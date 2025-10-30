@@ -11,7 +11,7 @@
 
 <h3>
 
-- 💻 **开发经验**: 2年C/C++/Java开发经验，熟悉Python和Rust
+- 💻 **开发经验**: 2年C/C++/Golang开发经验，熟悉Python和Rust
 
 - 🐧 **系统环境**: 1年+Linux系统使用经验，熟悉Docker容器化部署
 
@@ -59,29 +59,11 @@
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-<h1> 📫 Connect With Me <a href="#-connect-with-me--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/handshake.gif" width = 32px></a> </h1>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MuXinCG2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuXinCG2004)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
 <a href="#-connect-with-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/>
-
-<h1> 🏆 Featured Projects <a href="#-featured-projects--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/projects.gif" width = 35px></a> </h1>
-
-<div align="center">
-
-### 🌟 即将更新精彩项目，敬请期待...
-
-📌 正在开发中的项目将在此展示
-💡 包括算法实现、系统工具等
-
-</div>
 
 <a href="#-featured-projects--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/>
@@ -108,14 +90,6 @@
     </td>
     <td align="center" width="55%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuXinCG2004&theme=2077" alt="MuXinCG2004" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MuXinCG2004&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="MuXinCG2004" /></a>
-    </td>
-    <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=MuXinCG2004&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="MuXinCG2004" /></a>
     </td>
   </tr>
 </table>
