@@ -6,13 +6,15 @@
 
 <h3>
 
-- 💻 2年开发经验，使用C语言、C++语言和Java语言
+- 💻 **开发经验**: 2年C/C++/Java开发经验，熟悉Python和Rust
 
-- 🐧 对Linux有1年使用经验
+- 🐧 **系统环境**: 1年+Linux系统使用经验，熟悉Docker容器化部署
 
-- 📚 正在学习智能算法中的图算法
+- 📚 **学习方向**: 深入研究智能算法与图算法，探索前沿技术
 
-- 🎓 本科于山东大学计算机系就读
+- 🎓 **教育背景**: 山东大学计算机科学与技术专业本科在读
+
+- 🚀 **技术兴趣**: 算法优化、系统架构、开源贡献
 
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
@@ -23,10 +25,10 @@
 
 ### Languages
 
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
+<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C++" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-
-
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
 <br/><br/>
 
@@ -41,20 +43,57 @@
 <br/><br/>
 
 ### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
+
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a>
+
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
 
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
+<h1> 📫 Connect With Me <a href="#-connect-with-me--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/handshake.gif" width = 32px></a> </h1>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MuXinCG2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuXinCG2004)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+<a href="#-connect-with-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/>
+
+<h1> 🏆 Featured Projects <a href="#-featured-projects--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/projects.gif" width = 35px></a> </h1>
+
+<div align="center">
+
+### 🌟 即将更新精彩项目，敬请期待...
+
+📌 正在开发中的项目将在此展示
+💡 包括算法实现、系统工具等
+
+</div>
+
+<a href="#-featured-projects--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/>
+
 <div style="display: flex; align-items: center">
-  <h1> 
-    My GitHub Stats 
+  <h1>
+    📊 My GitHub Stats
     <a href="#-my-github-stats--">
       <img src = "https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/charts.gif" width = 35px height = 35px>
     </a>
   </h1>
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuXinCG2004&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <table align="center">
