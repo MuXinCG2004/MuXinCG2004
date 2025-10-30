@@ -117,4 +117,30 @@
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
+<br/><br/>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
+
+<br/>
+
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+
+<div align="center">
+  <h3>⭐ 感谢访问我的主页！如果觉得有帮助，欢迎点个 Star ⭐</h3>
+</div>
