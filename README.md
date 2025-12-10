@@ -2,22 +2,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MuXinCG;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;Algorithm+Enthusiast+%7C+Full+Stack+Developer;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0+%7C+%E4%B8%8D%E6%96%AD%E8%BF%9B%E6%AD%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+MuXinCG.;I'm+a+full-stack+engineer.;I'm+also+a+student+at+SDU.;My+focus+is+AI+Agent+research.;Welcome+to+my+blog!)](https://git.io/typing-svg)
 
 </div>
 
-<br/><h1> 💫 About Me  </h1>
+<br/><h1> About Me  </h1>
 
 
 <h3>
 
-- 💻 **开发经验**: 3年C/C++/Golang开发经验，熟悉Python和Rust
+- **Development Experience**: 3 years of experience in C/C++/Golang development, proficient in Python and Rust
 
-- 🐧 **系统环境**: 2年+Linux系统使用经验，熟悉Docker容器化部署
+- **System Environment**: Over 2 years of experience with Linux systems, familiar with Docker containerized deployment
 
-- 🎓 **教育背景**: 山东大学计算机科学与技术专业本科在读
+- **Education Background**: Currently pursuing a Bachelor’s degree in Computer Science and Technology at Shandong University
 
-- 🚀 **技术兴趣**: 算法优化、开源贡献
+- **Technical Interests**: Algorithm optimization, open-source contributions
 
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
@@ -60,7 +60,7 @@
 
 <div style="display: flex; align-items: center">
   <h1>
-    📊 My GitHub Stats
+    My GitHub Stats
     <a href="#-my-github-stats--">
       <img src = "https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/charts.gif" width = 35px height = 35px>
     </a>
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-### ⚡ Fun Fact
+### Fun Fact
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
@@ -109,7 +109,3 @@
 <br/>
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
-
-<div align="center">
-  <h3>⭐ 感谢访问我的主页！如果觉得有帮助，欢迎点个 Star ⭐</h3>
-</div>
