@@ -61,9 +61,6 @@
 <div style="display: flex; align-items: center">
   <h1>
     My GitHub Stats
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/MuXinCG2004/MuXinCG2004/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
   </h1>
 </div>
 
